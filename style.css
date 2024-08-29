@@ -72,14 +72,14 @@ section{
 }
 
 .bg1{
-    background-image: url(/images/zipline.png);
+    background-image: url(images/zipline.png);
 }
 .bg2{
-    background-image: url(/images/Skieng.png);
+    background-image: url(images/Skieng.png);
 
 }
 .bg3{
-    background-image: url(/images/Cafes.png);
+    background-image: url(images/Cafes.png);
 }
 .asa{
     position: absolute;
